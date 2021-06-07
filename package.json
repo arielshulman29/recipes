@@ -1,0 +1,18 @@
+{
+  "name": "nitay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recipe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "google-spreadsheet": "^3.0.14",
+    "unirest": "^0.6.0",
+    "util": "^0.12.3"
+  }
+}
